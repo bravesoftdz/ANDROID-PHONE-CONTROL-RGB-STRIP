@@ -53,3 +53,11 @@ Introuction, document, videos...
 https://www.instructables.com/id/Android-Phone-Control-RGB-Strip/
 
 
+      
+------------------------------------------------------------------------------------      
+Misc. Projects of 3D, Multimedia, Arduino Iot, CAD/CAM, Free Tools
+
+https://github.com/dan59314
+
+http://www.rasvector.url.tw/hot_91270.html
+
