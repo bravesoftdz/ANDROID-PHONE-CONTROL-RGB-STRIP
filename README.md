@@ -61,11 +61,18 @@ https://www.instructables.com/id/Android-Phone-Control-RGB-Strip/
 ------------------------------------------------------------------------------------      
 Misc. Projects of 3D, Multimedia, Arduino Iot, CAD/CAM, Free Tools
 
-Instructables: https://www.instructables.com/member/Daniel%20Lu/instructables/
+[GitHub: https://github.com/dan59314](GitHub: https://github.com/dan59314)
 
-![image](https://github.com/dan59314/Pulse-Sensor-Arduino/blob/master/Instructables01.JPG)
+[Email : dan59314@gmail.com](dan59314@gmail.com)
 
-https://github.com/dan59314
+[linkedin : https://www.linkedin.com/in/daniel-lu-238910a4/](linkedin : https://www.linkedin.com/in/daniel-lu-238910a4/)
 
-http://www.rasvector.url.tw/hot_91270.html
+[Web : http://www.rasvector.url.tw/](Web : http://www.rasvector.url.tw/)
 
+[YouTube : http://www.youtube.com/dan59314/playlist](YouTube : http://www.youtube.com/dan59314/playlist)
+
+[Free Tools :	http://www.rasvector.url.tw/hot_91270.html](Free Tools :	http://www.rasvector.url.tw/hot_91270.html)
+
+
+[Instructables :](https://www.instructables.com/member/Daniel%20Lu/instructables/)
+[![Instructables ](https://github.com/dan59314/Pulse-Sensor-Arduino/blob/master/Instructables01.JPG)](https://www.instructables.com/member/Daniel%20Lu/instructables/ "Instructables") 
