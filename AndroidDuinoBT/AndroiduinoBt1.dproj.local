@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2015/11/23 17:56:29.000.109,=C:\Users\daniel\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2016/04/15 11:27:40.000.121,=C:\Users\daniel\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2016/04/15 11:28:17.000.890,C:\Users\daniel\Documents\Embarcadero\Studio\Projects\Unit1.pas=D:\SourceCode\CrossLibrary\Projects_FireMonkey\Dan FireMonkey\網路 藍芽 NFC\AndroidDuinoBT\Unit1.pas</Transaction>
+    <Transaction>2016/04/15 11:28:17.000.890,C:\Users\daniel\Documents\Embarcadero\Studio\Projects\Unit1.fmx=D:\SourceCode\CrossLibrary\Projects_FireMonkey\Dan FireMonkey\網路 藍芽 NFC\AndroidDuinoBT\Unit1.fmx</Transaction>
+    <Transaction>2016/04/15 11:29:29.000.296,C:\Users\daniel\Documents\Embarcadero\Studio\Projects\Project1.dproj=D:\SourceCode\CrossLibrary\Projects_FireMonkey\Dan FireMonkey\網路 藍芽 NFC\AndroidDuinoBT\AndroiduinoBt1.dproj</Transaction>
+    <Transaction>2016/04/15 11:29:36.000.008,D:\SourceCode\CrossLibrary\Projects_FireMonkey\Dan FireMonkey\網路 藍芽 NFC\AndroidDuinoBT\Unit1.pas=</Transaction>
+    <Transaction>2016/04/15 11:30:02.000.154,=D:\SourceCode\CrossLibrary\Projects_FireMonkey\Dan FireMonkey\網路 藍芽 NFC\AndroidDuinoBT\Main.pas</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile Android="VNTGLMB482301262"/>
+		<PMacOSXVMWare iOSSimulator="iPhone5"/>
+	</ActiveMobileDevice>
+</BorlandProject>

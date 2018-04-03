@@ -1,0 +1,114 @@
+inherited MainForm_NmXhdpiPh: TMainForm_NmXhdpiPh
+  Caption = 'AndroiduinoBT'
+  ClientHeight = 615
+  ClientWidth = 400
+  DesignerMasterStyle = 0
+  inherited TabControl1: TTabControl
+    Size.Width = 400.000000000000000000
+    Size.Height = 615.000000000000000000
+    Sizes = (
+      400s
+      566s
+      400s
+      566s
+      400s
+      566s)
+    inherited TabItem1: TTabItem
+      Size.Width = 133.000000000000000000
+      ExplicitSize.cx = 122.000000000000000000
+      ExplicitSize.cy = 49.000000000000000000
+      inherited ImageControl1: TImageControl
+        Size.Width = 400.000000000000000000
+        Size.Height = 325.000000000000000000
+      end
+      inherited loSide: TLayout
+        Size.Width = 400.000000000000000000
+        inherited loDiscover: TLayout
+          Size.Width = 400.000000000000000000
+          inherited Layout5: TLayout
+            Size.Width = 400.000000000000000000
+          end
+          inherited loUDP: TLayout
+            inherited edIP: TEdit
+              Size.Height = 32.000000000000000000
+            end
+            inherited edPort: TEdit
+              Size.Height = 32.000000000000000000
+            end
+          end
+          inherited ListBox1: TListBox
+            Viewport.Width = 375.000000000000000000
+            Viewport.Height = 26.000000000000000000
+          end
+        end
+        inherited loPins: TLayout
+          Size.Width = 400.000000000000000000
+          inherited TrackBar3: TTrackBar
+            Size.Height = 32.000000000000000000
+          end
+          inherited Switch1: TSwitch
+            Size.Width = 44.000000000000000000
+          end
+        end
+      end
+    end
+    inherited TabItem2: TTabItem
+      Size.Width = 133.000000000000000000
+      ExplicitSize.cx = 123.000000000000000000
+      ExplicitSize.cy = 49.000000000000000000
+      inherited Memo1: TMemo
+        Size.Width = 400.000000000000000000
+        Size.Height = 525.000000000000000000
+        Viewport.Width = 400.000000000000000000
+        Viewport.Height = 525.000000000000000000
+      end
+      inherited Layout3: TLayout
+        Size.Width = 400.000000000000000000
+      end
+    end
+    inherited TabItem3: TTabItem
+      Size.Width = 134.000000000000000000
+      ExplicitSize.cx = 120.000000000000000000
+      ExplicitSize.cy = 49.000000000000000000
+      inherited loRgbSetting: TLayout
+        Size.Width = 400.000000000000000000
+        inherited cbMode: TComboBox
+          Position.X = 140.000000000000000000
+        end
+        inherited tkbarBri: TTrackBar
+          Size.Height = 32.000000000000000000
+        end
+      end
+      inherited Layout2: TLayout
+        Size.Width = 400.000000000000000000
+        Size.Height = 485.000000000000000000
+        inherited Layout4: TLayout
+          Size.Width = 400.000000000000000000
+          Size.Height = 73.000000000000000000
+          inherited rbActClr: TRenderBoxFmx
+            Position.X = 321.000000000000000000
+            Size.Height = 73.000000000000000000
+          end
+          inherited sbRgbSettingVisible: TSpeedButton
+            Size.Width = 48.000000000000000000
+            Size.Height = 48.000000000000000000
+          end
+          inherited lblColor: TLabel
+            Position.X = 144.000000000000000000
+            Position.Y = 40.000000000000000000
+            Size.Width = 161.000000000000000000
+            Size.Height = 25.000000000000000000
+          end
+        end
+        inherited Layout1: TLayout
+          Size.Width = 380.000000000000000000
+          Size.Height = 392.000000000000000000
+          inherited rbMain: TRenderBoxFmx
+            Size.Width = 380.000000000000000000
+            Size.Height = 392.000000000000000000
+          end
+        end
+      end
+    end
+  end
+end

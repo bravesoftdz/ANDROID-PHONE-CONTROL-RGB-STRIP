@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2015/02/24 18:56:12.000.293,=C:\Users\daniel\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2015/02/24 19:49:49.000.198,=C:\Users\daniel\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2015/02/24 19:52:07.000.315,=C:\Users\daniel\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2015/02/24 19:53:36.000.988,=C:\Users\daniel\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2015/04/09 15:21:52.000.645,=C:\Users\daniel\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2015/04/09 22:05:43.000.764,=C:\Users\daniel\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2015/04/09 22:15:19.000.127,C:\Users\daniel\Documents\Embarcadero\Studio\Projects\Unit1.fmx=D:\SourceCode\CrossLibrary\Projects_FireMonkey\Dan FireMonkey\網路 藍芽 NFC\AndroidDuinoBT\Main.fmx</Transaction>
+    <Transaction>2015/04/09 22:15:19.000.127,C:\Users\daniel\Documents\Embarcadero\Studio\Projects\Unit1.pas=D:\SourceCode\CrossLibrary\Projects_FireMonkey\Dan FireMonkey\網路 藍芽 NFC\AndroidDuinoBT\Main.pas</Transaction>
+    <Transaction>2015/04/09 22:15:30.000.465,C:\Users\daniel\Documents\Embarcadero\Studio\Projects\Project1.dproj=D:\SourceCode\CrossLibrary\Projects_FireMonkey\Dan FireMonkey\網路 藍芽 NFC\AndroidDuinoBT\AndroidunoBt.dproj</Transaction>
+    <Transaction>2015/04/10 11:37:47.000.700,=D:\SourceCode\CrossLibrary\Projects_FireMonkey\Dan FireMonkey\網路 藍芽 NFC\AndroidDuinoBT\Unit1.pas</Transaction>
+    <Transaction>2015/04/10 11:38:54.000.780,D:\SourceCode\CrossLibrary\Libraries\WebLib\OpenViewUrl.pas=D:\SourceCode\CrossLibrary\Projects_FireMonkey\Dan FireMonkey\網路 藍芽 NFC\AndroidDuinoBT\Unit1.pas</Transaction>
+    <Transaction>2015/04/10 11:39:40.000.045,D:\SourceCode\CrossLibrary\Libraries\WebLib\OpenViewUrl.pas=</Transaction>
+    <Transaction>2015/05/12 09:05:46.000.904,D:\SourceCode\CrossLibrary\Projects_FireMonkey\Dan FireMonkey\網路 藍芽 NFC\AndroidDuinoBT\AndroidunoBt.dproj=D:\SourceCode\CrossLibrary\Projects_FireMonkey\Dan FireMonkey\網路 藍芽 NFC\AndroidDuinoBT\AndroidunoWifiUdp.dproj</Transaction>
+  </Transactions>
+	<BT_BuildType>AppStore</BT_BuildType>
+	<ActiveMobileDevice>
+		<PMacOSXVMWare iOSSimulator="iPhone5"/>
+		<NoProfile Android="AVD_for_AsusZF3_Device"/>  <PIPhoneSimulater iOSSimulator="iPhone5"/>
+  </ActiveMobileDevice>
+</BorlandProject>

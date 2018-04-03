@@ -1,0 +1,48 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+    <PropertyGroup>
+        <ProjectGuid>{05C7CDCD-CE84-426D-B074-AED51483F5B2}</ProjectGuid>
+    </PropertyGroup>
+    <ItemGroup>
+        <Projects Include="AndroidunoWifiUdp.dproj">
+            <Dependencies/>
+        </Projects>
+        <Projects Include="AndroidunoBt.dproj">
+            <Dependencies/>
+        </Projects>
+    </ItemGroup>
+    <ProjectExtensions>
+        <Borland.Personality>Default.Personality.12</Borland.Personality>
+        <Borland.ProjectType/>
+        <BorlandProject>
+            <Default.Personality/>
+        </BorlandProject>
+    </ProjectExtensions>
+    <Target Name="AndroidunoWifiUdp">
+        <MSBuild Projects="AndroidunoWifiUdp.dproj"/>
+    </Target>
+    <Target Name="AndroidunoWifiUdp:Clean">
+        <MSBuild Projects="AndroidunoWifiUdp.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="AndroidunoWifiUdp:Make">
+        <MSBuild Projects="AndroidunoWifiUdp.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="AndroidunoBt">
+        <MSBuild Projects="AndroidunoBt.dproj"/>
+    </Target>
+    <Target Name="AndroidunoBt:Clean">
+        <MSBuild Projects="AndroidunoBt.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="AndroidunoBt:Make">
+        <MSBuild Projects="AndroidunoBt.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="Build">
+        <CallTarget Targets="AndroidunoWifiUdp;AndroidunoBt"/>
+    </Target>
+    <Target Name="Clean">
+        <CallTarget Targets="AndroidunoWifiUdp:Clean;AndroidunoBt:Clean"/>
+    </Target>
+    <Target Name="Make">
+        <CallTarget Targets="AndroidunoWifiUdp:Make;AndroidunoBt:Make"/>
+    </Target>
+    <Import Project="$(BDS)\Bin\CodeGear.Group.Targets" Condition="Exists('$(BDS)\Bin\CodeGear.Group.Targets')"/>
+</Project>

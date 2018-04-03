@@ -1,0 +1,76 @@
+inherited MainForm_Windows: TMainForm_Windows
+  Caption = 'AndroiduinoBT WinUSB'
+  ClientWidth = 803
+  WindowState = wsMaximized
+  DesignerMasterStyle = 0
+  inherited TabControl1: TTabControl
+    Size.Width = 803.000000000000000000
+    Sizes = (
+      803s
+      481s
+      803s
+      481s
+      803s
+      481s)
+    inherited TabItem1: TTabItem
+      Size.Width = 267.000000000000000000
+      ExplicitSize.cx = 122.000000000000000000
+      ExplicitSize.cy = 49.000000000000000000
+      inherited ImageControl1: TImageControl
+        Size.Width = 803.000000000000000000
+      end
+      inherited loSide: TLayout
+        Size.Width = 803.000000000000000000
+        inherited loDiscover: TLayout
+          Size.Width = 803.000000000000000000
+          inherited Layout5: TLayout
+            Size.Width = 803.000000000000000000
+          end
+          inherited ListBox1: TListBox
+            Viewport.Width = 371.000000000000000000
+            Viewport.Height = 22.000000000000000000
+          end
+        end
+        inherited loPins: TLayout
+          Size.Width = 803.000000000000000000
+        end
+      end
+    end
+    inherited TabItem2: TTabItem
+      Size.Width = 267.000000000000000000
+      ExplicitSize.cx = 123.000000000000000000
+      ExplicitSize.cy = 49.000000000000000000
+      inherited Memo1: TMemo
+        Size.Width = 803.000000000000000000
+        Viewport.Width = 803.000000000000000000
+        Viewport.Height = 440.000000000000000000
+      end
+      inherited Layout3: TLayout
+        Size.Width = 803.000000000000000000
+      end
+    end
+    inherited TabItem3: TTabItem
+      Size.Width = 267.000000000000000000
+      ExplicitSize.cx = 120.000000000000000000
+      ExplicitSize.cy = 49.000000000000000000
+      inherited loRgbSetting: TLayout
+        Size.Width = 803.000000000000000000
+      end
+      inherited Layout2: TLayout
+        Size.Width = 803.000000000000000000
+        inherited Layout4: TLayout
+          Size.Width = 803.000000000000000000
+          inherited rbActClr: TRenderBoxFmx
+            Position.X = 724.000000000000000000
+          end
+        end
+        inherited Layout1: TLayout
+          Size.Width = 783.000000000000000000
+          inherited rbMain: TRenderBoxFmx
+            Size.Width = 783.000000000000000000
+          end
+        end
+      end
+    end
+  end
+end

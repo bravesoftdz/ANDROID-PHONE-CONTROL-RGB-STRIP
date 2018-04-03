@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2015/05/12 09:11:57.000.173,C:\Users\daniel\Documents\Embarcadero\Studio\Projects\ProjectGroup1.groupproj=D:\SourceCode\CrossLibrary\Projects_FireMonkey\Dan FireMonkey\網路 藍芽 NFC\AndroidDuinoBT\AndroiDuino.groupproj</Transaction>
+  </Transactions>
+	<Default.Personality>
+		<Projects ActiveProject="D:\SourceCode\CrossLibrary\Projects_FireMonkey\Dan FireMonkey\網路 藍芽 NFC\AndroidDuinoBT\AndroidunoBt.dproj"/>
+	</Default.Personality>
+</BorlandProject>
